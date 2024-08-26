@@ -47,12 +47,12 @@ body{
     font-family: "Jost", sans-serif;
     text-align:center;
     color: #edecec;
-    font-size: 70px;
+    font-size: 7vw;
   }
   h2{
     font-family: "Jost", sans-serif;
     text-align:center;
-    font-size: 40px;
+    font-size: 4vw;
     padding: 0px;
     margin-top: 200px;
     padding-top:40px;
@@ -61,13 +61,13 @@ body{
   h3{
     font-family: "Jost", sans-serif;
     text-align:center;
-    font-size: 40px;
+    font-size: 4vw;
     padding: 0px;
     margin-top: 200px;
     color: #2a2929;
   }
   p{
-    font-size: 30px;
+    font-size: 4vw;
     font-family: "Jost", sans-serif;
     color: #2a2929;
   }
